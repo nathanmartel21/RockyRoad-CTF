@@ -3,8 +3,12 @@
 ## About Release
 
 Name : RockyRoad
+
 Date release : 19/12/2024
+
 Author : Nathan Martel
+
+File size : 2,02 GB
 
 ## Download
 
