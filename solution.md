@@ -177,7 +177,7 @@ We are now connected as root !
 - Let's display the root flag of RockyRoad
 
 ```
-cat /root/
+cd /root/
 cat root.txt
 ```
 
